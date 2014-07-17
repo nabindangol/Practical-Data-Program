@@ -1,4 +1,4 @@
-SDRDL-Internship-Notebooks
+Practical Data Program
 ==========================
 
-SDRDL Internship Notebooks
+An example of the output for the first PDP exercise.
